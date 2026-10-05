@@ -1,6 +1,7 @@
 # Hi, I'm Shivam Kumar Rai 👋
 
 ### Data Analyst
+🌐 Portfolio: https://shivam-rai6206.github.io/shivam-data-analyst-portfolio/
 
 I am a passionate Data Analyst interested in working with data, finding useful insights, and creating clear dashboards and reports.
 
